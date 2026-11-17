@@ -899,6 +899,7 @@ def render_calculator_page(page_data, is_home=False):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title}</title>
+    https://green5758.github.io/welding-amperage-wire-speed-calculator/
     <meta name="description" content="{description}">
     <link rel="canonical" href="{canonical_url}">
     <meta name="robots" content="index, follow">
